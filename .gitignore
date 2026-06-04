@@ -1,0 +1,18 @@
+# Kredensial & rahasia
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Model & data besar (opsional)
+*.pkl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
